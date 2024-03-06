@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "start_date": "2020-01-01",
+    "end_date": "2020-01-07",
+    "mblog_total": 5,
+    "pos_num": 5,
+    "neg_num": 0,
+    "time_flag": 0,
+    "area_id": 580,
+    "area": {
+      "area_id": 580,
+      "login": "alexsandrocruz",
+      "latitude": -10.916206,
+      "longitude": -37.077465,
+      "area_name": "Brazil"
+    },
+    "repo_name": "flutter"
+  },
+  {
+    "id": 2,
+    "start_date": "2020-01-01",
+    "end_date": "2020-01-07",
+    "mblog_total": 6,
+    "pos_num": 6,
+    "neg_num": 0,
+    "time_flag": 0,
+    "area_id": 2461,
+    "area": {
+      "area_id": 2461,
+      "login": "Brooooooklyn",
+      "latitude": -7.042268,
+      "longitude": 110.360596,
+      "area_name": "Indonesia"
+    },
+    "repo_name": "flutter"
+  },
+  {
+    "id": 3,
+    "start_date": "2020-01-01",
+    "end_date": "2020-01-07",
+    "mblog_total": 12,
+    "pos_num": 12,
+    "neg_num": 0,
+    "time_flag": 0,
+    "area_id": 330,
+    "area": {
+      "area_id": 330,
+      "login": "Supriya090",
+      "latitude": 27.712017,
+      "longitude": 85.31295,
+      "area_name": "Nepal"
+    },
+    "repo_name": "flutter"
+  },
+  {
+    "id": 4,
+    "start_date": "2020-01-01",
+    "end_date": "2020-01-07",
+    "mblog_total": 19,
+    "pos_num": 19,
+    "neg_num": 0,
+    "time_flag": 0,
+    "area_id": 773,
+    "area": {
+      "area_id": 773,
+      "login": "phenning",
+      "latitude": 28.53833,
+      "longitude": -81.378876,
+      "area_name": "United States"
+    },
+    "repo_name": "flutter"
+  },
+  {
+    "id": 5,
+    "start_date": "2020-01-01",
+    "end_date": "2020-01-07",
+    "mblog_total": 2,
+    "pos_num": 2,
+    "neg_num": 0,
+    "time_flag": 0,
+    "area_id": 20584,
+    "area": {
+      "area_id": 20584,
+      "login": "DyaryRaoof",
+      "latitude": 35.55705,
+      "longitude": 45.442596,
+      "area_name": "Iraq"
+    },
+    "repo_name": "flutter"
+  },
+  {
+    "id": 6,
+    "start_date": "2020-01-01",
+    "end_date": "2020-01-07",
+    "mblog_total": 3080,
+    "pos_num": 1820,
+    "neg_num": 1260,
+    "time_flag": 0,
+    "area_id": 1023,
+    "area": {
+      "area_id": 1023,
+      "login": "cowens87",
+      "latitude": 37.39008,
+      "longitude": -122.08139,
+      "area_name": "United States"
+    },
+    "repo_name": "flutter"
+  },
+  {
+    "id": 7,
+    "start_date": "2020-01-01",
+    "end_date": "2020-01-07",
+    "mblog_total": 975,
+    "pos_num": 600,
+    "neg_num": 375,
+    "time_flag": 0,
+    "area_id": 35,
+    "area": {
+      "area_id": 35,
+      "login": "avnishn",
+      "latitude": 37.81,
+      "longitude": -122.37,
+      "area_name": "United States"
+    },
+    "repo_name": "flutter"
+  },
+  {
+    "id": 8,
+    "start_date": "2020-01-01",
+    "end_date": "2020-01-07",
+    "mblog_total": 39,
+    "pos_num": 39,
+    "neg_num": 0,
+    "time_flag": 0,
+    "area_id": 34,
+    "area": {
+      "area_id": 34,
+      "login": "joshuaGlass808",
+      "latitude": 43.006145,
+      "longitude": -123.89269,
+      "area_name": "United States"
+    },
+    "repo_name": "flutter"
+  },
+  {
+    "id": 9,
+    "start_date": "2020-01-01",
+    "end_date": "2020-01-07",
+    "mblog_total": 41239,
+    "pos_num": 12903,
+    "neg_num": 28336,
+    "time_flag": 0,
+    "area_id": 118,
+    "area": {
+      "area_id": 118,
+      "login": "wyTrivail",
+      "latitude": 47.60323,
+      "longitude": -122.33028,
+      "area_name": "United States"
+    },
+    "repo_name": "flutter"
+  },
+  {
+    "id": 10,
+    "start_date": "2020-01-01",
+    "end_date": "2020-01-07",
+    "mblog_total": 22,
+    "pos_num": 22,
+    "neg_num": 0,
+    "time_flag": 0,
+    "area_id": 1646,
+    "area": {
+      "area_id": 1646,
+      "login": "ckleemann",
+      "latitude": 50.732704,
+      "longitude": 7.096311,
+      "area_name": "Germany"
+    },
+    "repo_name": "flutter"
+  },
+  {
+    "id": 11,
+    "start_date": "2020-01-01",
+    "end_date": "2020-01-07",
+    "mblog_total": 478,
+    "pos_num": 478,
+    "neg_num": 0,
+    "time_flag": 0,
+    "area_id": 54,
+    "area": {
+      "area_id": 54,
+      "login": "diwako",
+      "latitude": 51.091988,
+      "longitude": 10.380809,
+      "area_name": "Germany"
+    },
+    "repo_name": "flutter"
+  },
+  {
+    "id": 12,
+    "start_date": "2020-01-01",
+    "end_date": "2020-01-07",
+    "mblog_total": 7,
+    "pos_num": 0,
+    "neg_num": 7,
+    "time_flag": 0,
+    "area_id": 1082,
+    "area": {
+      "area_id": 1082,
+      "login": "g00glen00b",
+      "latitude": 51.21648,
+      "longitude": 4.423196,
+      "area_name": "Belgium"
+    },
+    "repo_name": "flutter"
+  },
+  {
+    "id": 13,
+    "start_date": "2020-01-01",
+    "end_date": "2020-01-07",
+    "mblog_total": 858,
+    "pos_num": 0,
+    "neg_num": 858,
+    "time_flag": 0,
+    "area_id": 36,
+    "area": {
+      "area_id": 36,
+      "login": "awconstable",
+      "latitude": 51.500153,
+      "longitude": -0.126236,
+      "area_name": "United Kingdom"
+    },
+    "repo_name": "flutter"
+  },
+  {
+    "id": 14,
+    "start_date": "2020-01-01",
+    "end_date": "2020-01-07",
+    "mblog_total": 3,
+    "pos_num": 3,
+    "neg_num": 0,
+    "time_flag": 0,
+    "area_id": 4814,
+    "area": {
+      "area_id": 4814,
+      "login": "TahaTesser",
+      "latitude": 58.383,
+      "longitude": 26.717,
+      "area_name": "Estonia"
+    },
+    "repo_name": "flutter"
+  }
+]
