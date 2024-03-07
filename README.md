@@ -16,7 +16,7 @@
 
 并以这三个维度数据为基础，初步设计出“开源项目社区化程度”计算公式如下：
 
-<img src="./data/img/1.png" alt="1" style="zoom: 33%;" />
+<img src="./data/img/1.png" alt="1" width="200" height="200" />
 
 ### 3 功能模块
 
