@@ -16,7 +16,7 @@
 
 并以这三个维度数据为基础，初步设计出“开源项目社区化程度”计算公式如下：
 
-<img src="./data/img/1.png" alt="1" width="200" height="200" />
+<img src="./data/img/1.png" alt="1" width="700" height="80" style="float:right" />
 
 ### 3 功能模块
 
@@ -24,28 +24,28 @@
 
 通过搜索项目关键字（或者直接选择固定仓库）获取项目的情感分析演化结果
 
-<img src="./data/img/3.jpg" alt="搜索" style="zoom: 33%;" />
+<img src="./data/img/3.jpg" alt="搜索" width="200" height="80" />
 
 - 情感指标筛选模块
 
 用户可以选择自己感兴趣的情感指标，地图部分可以加载该指标对应的数据
 
-<img src="./data/img/4.jpg" alt="sx" style="zoom: 33%;" />
+<img src="./data/img/4.jpg" alt="sx" width="100" height="120" />
 
 - 时间轴模块
 
 通过操作时间轴与情感热力图进行联动
 
-<img src="./data/img/5.jpg" alt="sjz" style="zoom:67%;" />
+<img src="./data/img/5.jpg" alt="sjz" width="800" height="80" />
 
 - 项目社区化程度模块
 
 用户搜索某个项目就可以得到该项目的社区化程度的按月累计和月增量趋势图
 
-<img src="./data/img/6.jpg" alt="ylj" style="zoom: 33%;" />
+<img src="./data/img/6.jpg" alt="ylj" width="300" height="400" />
 
-<img src="./data/img/7.png" alt="yzl" style="zoom: 33%;" />
+<img src="./data/img/7.png" alt="yzl" width="300" height="400" />
 
 ### 4 整体系统展示
 
-<img src="./data/img/2.png" alt="zt" style="zoom: 33%;" />
+<img src="./data/img/2.png" alt="zt" width="900" height="500" />
