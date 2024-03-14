@@ -52,11 +52,11 @@
 
 其中 $r_{ij}$ 表示评价指标 $i$ 和 $j$ 之间的相关系数。
 
-（4）计算信息量。CRITIC 赋权法中 $C_j$ 越大，第 j 个评价指标在整个评价指标体系中的作用越大，就应该给其分配更多的权重，计算公式如下：
+（4）计算信息量。CRITIC 赋权法中 $C_j$ 越大，第 $j$ 个评价指标在整个评价指标体系中的作用越大，就应该给其分配更多的权重，计算公式如下：
 
 <img src="https://github.com/xhyuaner/github_community_metrics/blob/main/assets/xxl.png?raw=true" alt="xxl" style="zoom: 50%;" />
 
-（5）计算 CRITIC 权重。第 $j$ 个指标的客观权重$W_j$计算公式如下：
+（5）计算 CRITIC 权重。第 $j$ 个指标的客观权重 $W_j$ 计算公式如下：
 
 <img src="https://github.com/xhyuaner/github_community_metrics/blob/main/assets/qz.png?raw=true" alt="qz" style="zoom: 50%;" />
 
